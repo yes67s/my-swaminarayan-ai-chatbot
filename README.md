@@ -1,4 +1,4 @@
-# BAPS Swaminarayan AI Chatbot
+# Swaminarayan AI Chatbot
 
 An AI chatbot that provides information about BAPS Swaminarayan, its beliefs, history, scriptures, festivals, temples, and the teachings of Bhagwan Swaminarayan and the Guru Parampara.
 
@@ -8,8 +8,8 @@ https://huggingface.co/spaces/yes67s/swaminarayan-ai-chatbot
 
 ## Features
 
-- Answers questions about BAPS Swaminarayan
-- Explains Hindu beliefs and values taught in BAPS
+- Answers questions about Swaminarayan
+- Explains Hindu beliefs and values taught in Swaminarayan
 - Provides information about festivals, traditions, and mandirs
 - Discusses the lives and teachings of the Guru Parampara
 - Easy-to-use web interface
@@ -36,7 +36,7 @@ https://huggingface.co/spaces/yes67s/swaminarayan-ai-chatbot
 
 ## Disclaimer
 
-This chatbot is an educational tool designed to provide information about BAPS Swaminarayan and Hindu teachings. Responses may not always be complete or perfectly accurate. For official information, consult official BAPS resources.
+This chatbot is an educational tool and an independent AI designed to provide information about BAPS Swaminarayan and Hindu teachings. Responses may not always be complete or perfectly accurate. For official information, consult official BAPS resources.
 
 ## License
 
