@@ -4,7 +4,7 @@ An AI chatbot that provides information about BAPS Swaminarayan, its beliefs, hi
 
 ## 🌐 Live Demo
 
-[https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE](https://huggingface.co/spaces/yes67s/swaminarayan-ai-chatbot)
+https://huggingface.co/spaces/yes67s/swaminarayan-ai-chatbot
 
 ## Features
 
